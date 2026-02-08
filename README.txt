@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18525450.svg)](https://doi.org/10.5281/zenodo.18525450)
+
 Title: Collatz‑5 Python Implementation
 Author: Hiroshi Harada
 Year: 2026
@@ -36,3 +38,4 @@ If you use this code, please cite the Zenodo DOI associated with this archive.
 
 Contact
 Hiroshi Harada
+
