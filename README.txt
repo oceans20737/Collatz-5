@@ -1,10 +1,9 @@
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18525450.svg)](https://doi.org/10.5281/zenodo.18525450)
-
 Title: Collatz‑5 Python Implementation
 Author: Hiroshi Harada
 Year: 2026
 License: CC BY 4.0
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18525450.svg)](https://doi.org/10.5281/zenodo.18525450)
 
 Description
 This archive provides a minimal and clean Python implementation of the Collatz‑5 dynamical system, also known as the Pentadica map.
@@ -39,6 +38,7 @@ If you use this code, please cite the Zenodo DOI associated with this archive.
 
 Contact
 Hiroshi Harada
+
 
 
 
